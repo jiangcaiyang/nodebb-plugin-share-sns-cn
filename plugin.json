@@ -1,0 +1,13 @@
+{
+  "id": "nodebb-plugin-share-sns-cn",
+  "name": "NodeBB share SNS accounts",
+  "description": "NodeBB Plugin that allows users to share post via their SNS accounts.",
+  "url": "https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn",
+  "library": "./library.js",
+  "scripts": [
+      "public/src/client.js"
+  ],
+  "hooks": [
+    { "hook": "filter:social.posts", "method": "addNetwork" }
+  ]
+}

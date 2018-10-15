@@ -1,0 +1,65 @@
+{
+  "_from": "nodebb-plugin-share-sns-cn@1.0.0",
+  "_id": "nodebb-plugin-share-sns-cn@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-OkNdcfNIf+FqjIPHAGhiXUhX/v0=",
+  "_location": "/nodebb-plugin-share-sns-cn",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nodebb-plugin-share-sns-cn@1.0.0",
+    "name": "nodebb-plugin-share-sns-cn",
+    "escapedName": "nodebb-plugin-share-sns-cn",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-sns-cn/-/nodebb-plugin-share-sns-cn-1.0.0.tgz",
+  "_shasum": "3a435d71f3487fe16a8c83c70068625d4857fefd",
+  "_spec": "nodebb-plugin-share-sns-cn@1.0.0",
+  "_where": "/Users/jiangcaiyang/WebProject/QtDream",
+  "author": {
+    "name": "Oleg Sobolev",
+    "email": "jiangcaiyang12345@126.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "NodeBB SNS Share",
+  "dist": {
+    "shasum": "???"
+  },
+  "homepage": "https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "sns",
+    "cn",
+    "share"
+  ],
+  "license": "MIT",
+  "main": "library.js",
+  "maintainers": [
+    {
+      "name": "jiangcaiyang",
+      "email": "jiangcaiyang12345@126.com"
+    }
+  ],
+  "name": "nodebb-plugin-share-sns-cn",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn.git"
+  },
+  "version": "1.0.0"
+}

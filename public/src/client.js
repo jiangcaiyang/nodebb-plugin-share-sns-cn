@@ -4,7 +4,7 @@
 		addHandler('[component="share/qq"]', function () {
 			return params.openShare(
 				'http://connect.qq.com/widget/shareqq/index.html?title=' + document.title + '&url=',
-				getPostUrl($(this)), 550, 550);
+				getPostUrl($(this)), 720, 530);
 		});
 		addHandler('[component="share/weibo"]', function () {
 			return params.openShare(

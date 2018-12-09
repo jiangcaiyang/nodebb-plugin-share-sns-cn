@@ -1,6 +1,5 @@
 {
   "_from": "nodebb-plugin-share-sns-cn@1.0.0",
-  "_id": "nodebb-plugin-share-sns-cn@1.0.0",
   "_inBundle": false,
   "_integrity": "sha1-OkNdcfNIf+FqjIPHAGhiXUhX/v0=",
   "_location": "/nodebb-plugin-share-sns-cn",
@@ -23,10 +22,7 @@
   "_shasum": "3a435d71f3487fe16a8c83c70068625d4857fefd",
   "_spec": "nodebb-plugin-share-sns-cn@1.0.0",
   "_where": "/Users/jiangcaiyang/WebProject/QtDream",
-  "author": {
-    "name": "Oleg Sobolev",
-    "email": "jiangcaiyang12345@126.com"
-  },
+  "author": "jiangcaiyang <jiangcaiyang12345@126.com>",
   "bugs": {
     "url": "https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn/issues"
   },
@@ -45,13 +41,10 @@
     "cn",
     "share"
   ],
-  "license": "MIT",
+  "license": "LGPL-3.0",
   "main": "library.js",
   "maintainers": [
-    {
-      "name": "jiangcaiyang",
-      "email": "jiangcaiyang12345@126.com"
-    }
+    "jiangcaiyang <jiangcaiyang12345@126.com>"
   ],
   "name": "nodebb-plugin-share-sns-cn",
   "nbbpm": {
@@ -61,5 +54,8 @@
     "type": "git",
     "url": "git+https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

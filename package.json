@@ -1,5 +1,5 @@
 {
-  "_from": "nodebb-plugin-share-sns-cn@1.0.0",
+  "_from": "nodebb-plugin-share-sns-cn@1.0.1",
   "_inBundle": false,
   "_integrity": "sha1-OkNdcfNIf+FqjIPHAGhiXUhX/v0=",
   "_location": "/nodebb-plugin-share-sns-cn",
@@ -7,20 +7,20 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "nodebb-plugin-share-sns-cn@1.0.0",
+    "raw": "nodebb-plugin-share-sns-cn@1.0.1",
     "name": "nodebb-plugin-share-sns-cn",
     "escapedName": "nodebb-plugin-share-sns-cn",
-    "rawSpec": "1.0.0",
+    "rawSpec": "1.0.1",
     "saveSpec": null,
-    "fetchSpec": "1.0.0"
+    "fetchSpec": "1.0.1"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-sns-cn/-/nodebb-plugin-share-sns-cn-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-sns-cn/-/nodebb-plugin-share-sns-cn-1.0.1.tgz",
   "_shasum": "3a435d71f3487fe16a8c83c70068625d4857fefd",
-  "_spec": "nodebb-plugin-share-sns-cn@1.0.0",
+  "_spec": "nodebb-plugin-share-sns-cn@1.0.1",
   "_where": "/Users/jiangcaiyang/WebProject/QtDream",
   "author": "jiangcaiyang <jiangcaiyang12345@126.com>",
   "bugs": {
@@ -48,13 +48,13 @@
   ],
   "name": "nodebb-plugin-share-sns-cn",
   "nbbpm": {
-    "compatibility": "^1.0.0"
+    "compatibility": "^1.0.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jiangcaiyang/nodebb-plugin-share-sns-cn.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
